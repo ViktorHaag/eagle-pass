@@ -77,6 +77,18 @@ pygments_style = 'sphinx'
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = False
 
+# ReST strings that the builder adds to each processed .rst file
+rst_prolog = """
+.. |br| raw:: html
+
+   <br />
+"""
+# - note that according to a usenet newsgroup poster, this method of |term| substitution
+# only works in HTML output: if we need to output to TeX, or through TeX (PDF), then
+# this might be problematic
+rst_epilog = """
+.. include:: <isonum.txt>
+"""
 
 # -- Options for HTML output ----------------------------------------------
 
@@ -117,6 +129,9 @@ html_sidebars = {
     ]
 }
 
+html_show_sourcelink = False
+html_copy_source = True
+html_sourcelink_suffix = '.rst'
 
 # -- Options for HTMLHelp output ------------------------------------------
 
