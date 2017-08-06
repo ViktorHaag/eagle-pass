@@ -106,6 +106,8 @@ html_theme_options = {
     'github_user': 'ViktorHaag',
     'github_repo': 'eagle-pass',
     'github_button': True,
+    'github_count': False,
+    'github_type': 'watch',
     'show_powered_by': False,
 }
 

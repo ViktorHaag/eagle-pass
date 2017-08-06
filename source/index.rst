@@ -1,6 +1,6 @@
--------------------------
-Eagle Pass Campaign Guide
--------------------------
+---------------------------
+ Eagle Pass Campaign Guide
+---------------------------
 
 
 This campaign guide contains information about the ongoing West Marches-style
@@ -14,4 +14,4 @@ games set in the lands east of the Imperial walled fortress town called Eagle Pa
    :glob:
 
    characters/PC
-
+   regions/regions
