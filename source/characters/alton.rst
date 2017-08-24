@@ -14,7 +14,10 @@
    * - Class
      - Fighter (1)
    * - Proficiencies
-     - Weapons, etc
+     - Persuasion, Perception, Insight, History, saves (STR, CON), martial
+       weapons, all armour, dice
+   * - Languages
+     - Common, Common, Eldar
    * - Background
      - Noble; from a particularly well-off and ambituous family, sent to a
        mostly human boarding school; eager to fit into his new "clan" at school
