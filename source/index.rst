@@ -15,3 +15,5 @@ games set in the lands east of the Imperial walled fortress town called Eagle Pa
 
    characters/PC
    regions/regions
+   adventures/adventures
+   

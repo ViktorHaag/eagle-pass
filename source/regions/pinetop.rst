@@ -29,7 +29,7 @@ hills in them, and require a half day's travel to pass through.
 stone quarried from the mountains around Eagle Pass.
 
 
-.. image:: https://lh4.googleusercontent.com/GBZSJjeOP09_0NIDT9i-OTcbcrr7K80B-Lz0qL9G571VhIdwRIOA2cLEtBzJ8V_znHCXN3cWTpappm0=w2728-h1522-rw
+.. image:: /img/PinetopRegion.png
    :align: left
 
 
