@@ -14,7 +14,10 @@
    * - Class
      - Wizard (1)
    * - Proficiencies
-     - Arcane lore, etc
+     - Arcane, Investigation, Medicine, Religion, Herbalist Tools, saves (WIS,
+       INT), simple weapons
+   * - Languages
+     - Common, Halfling, Infernal
    * - Background
      - Hermit; I escaped my hometown many years ago when a horrific magical
        incident occurred in the community; although I didn't actually cause it,

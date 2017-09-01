@@ -14,7 +14,10 @@
    * - Class
      - Cleric (1) of Kandor, God of the Forge
    * - Proficiencies
-     - Religion, etc
+     - History, Religion, Animal Handling, Insight, Survival, Persuasion, saves
+       (WIS, CHA), simple weapons, medium armour, land vehicles
+   * - Languages
+     - Common, Dwarf, Beastmen, Eldar
    * - Background
      - Folk Hero; Pius was a reknowned blacksmith and community leader in a
        prosperous mountain village to the west of Eagle Pass; when a corrupt

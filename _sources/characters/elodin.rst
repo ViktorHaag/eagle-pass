@@ -14,7 +14,10 @@
    * - Class
      - Wizard (1)
    * - Proficiencies
-     - Arcane lore, etc
+     - Arcana, Investigation, Perception, Sleight of Hand, Stealth, saves (INT,
+       WIS), simple weapons, disguise kit, thieves tools
+   * - Languages
+     - Common, Elvish
    * - Background
      - Elodin grew up in a small town outside Eagle Pass, raised by a human
        family. He knows nothing of his elfish heritage. One night his human
