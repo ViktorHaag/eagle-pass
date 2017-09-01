@@ -6,7 +6,7 @@ SPHINXOPTS    =
 SPHINXBUILD   = python3 -msphinx
 SPHINXPROJ    = EaglePassGuide
 SOURCEDIR     = source
-BUILDDIR      = ../../pub/eagle-pass
+BUILDDIR      = pub
 
 # Put it first so that "make" without argument is like "make help".
 help:
