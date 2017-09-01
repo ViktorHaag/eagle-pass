@@ -1,5 +1,5 @@
 ===========================
- Ruined Temple of La-a Uli
+ Ruined Temple of La'a Uli
 ===========================
 
   *Heard about town, in the tavern: My cousin, a woodcutter, recently came upon
