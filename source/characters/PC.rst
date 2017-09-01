@@ -9,6 +9,9 @@
    * - Player
      - Active
      - Deceased
+   * - Alex Tibbs
+     - :doc:`Thikk IronBeard <thikk>` (Dwarven Fighter 1)
+     - 
    * - Dave Rose
      - :doc:`Elodin Greycastle <elodin>` (Elven Wizard 1)
      -
