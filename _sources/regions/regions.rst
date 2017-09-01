@@ -2,12 +2,18 @@
  Regions
 =========
 
-+---------------------------+------------+------------------------+
-| Region                    | Key hexes  | Notes                  |
-+---------------------------+------------+------------------------+
-| :doc:`Pine-top <pinetop>` | | 0321     | | Village of Pine-top  |
-|                           | | 0521     | | Ruined Eld temple    |
-+---------------------------+------------+------------------------+
+.. list-table::
+   :header-rows: 1
+   :widths: auto
+
+   * - Region
+     - Key hexes
+     - Notes
+   * - :doc:`Pine-top <pinetop>`
+     - 0321
+       |br| 0521
+     - Village of Pine-top
+       |br| Ruined Eld Temple
 
 .. toctree::
    :maxdepth: 2

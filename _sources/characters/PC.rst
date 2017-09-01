@@ -2,22 +2,34 @@
  Player Characters
 ===================
 
-+--------------------+-----------------------------------+---------------------------------+
-| Player             | Active                            | Deceased                        |
-+--------------------+-----------------------------------+---------------------------------+
-| Dave Rose          | :doc:`Elodin Greycastle <elodin>` |                                 |
-+--------------------+-----------------------------------+---------------------------------+
-| Don Brinn          | :doc:`Alton Highbottom <alton>`   |                                 |
-+--------------------+-----------------------------------+---------------------------------+
-| Dylan Pritchard    | :doc:`Falco Smoothweed <falco>`   |                                 |
-+--------------------+-----------------------------------+---------------------------------+
-| Jeff Lyons         | :doc:`Artan Everwood <artan>`     |                                 |
-+--------------------+-----------------------------------+---------------------------------+
-| Noel Stonehouse    | :doc:`Soriasces <soriasces>`      |                                 |
-+--------------------+-----------------------------------+---------------------------------+
-| Rebecca Langer     | :doc:`Pius Toro <pius>`           |                                 |
-+--------------------+-----------------------------------+---------------------------------+
+.. list-table::
+   :header-rows: 1
+   :widths: auto
 
+   * - Player
+     - Active
+     - Deceased
+   * - Dave Rose
+     - :doc:`Elodin Greycastle <elodin>` (Elven Wizard 1)
+     -
+   * - Don Brinn
+     - :doc:`Alton Highbottom <alton>` (Halfling Fighter 1)
+     -
+   * - Dylan Pritchard
+     - :doc:`Falco Smoothweed <falco>` (Halfling Rogue 1)
+     -
+   * - Jeff Lyons
+     - :doc:`Artan Everwood <artan>` (Human Wizard 1)
+     -
+   * - Jonathan Dietrich
+     - :doc:`Bran Brightwood <bran>` (Human Cleric 1)
+     - 
+   * - Noel Stonehouse
+     - :doc:`Soriasces <soriasces>` (Halfling Wizard 1)
+     -
+   * - Rebecca Langer
+     - :doc:`Pius Toro <pius>` (Human Cleric 1)
+     - 
 
 .. toctree::
    :maxdepth: 2
