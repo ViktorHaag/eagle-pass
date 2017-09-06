@@ -72,7 +72,7 @@ spreading out over the nearby countryside:
   not uncommon to find various spawn of Gulthias in the surrounding woods:
   twiglings and needlers, in particular.
 
-* A wight, resident of the upper reaches of the temple dome, has over the years
-  infected several creatures and turned them into zombies. Now, they reside in
+* A wight, resident of the upper reaches of the temple dome, has killed and
+  infected several creatures, turning them into zombies. Now, they reside in
   the temple dome as well, and wander the woods, hungry for flesh.
 
