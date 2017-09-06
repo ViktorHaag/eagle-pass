@@ -36,7 +36,6 @@
 
 Episode One
 -----------
-
 *Scribe*. Socriasces.
 
 Pinetop is a village roughly four leagues East of Eagle Pass in an idyllic part
@@ -90,3 +89,40 @@ men arrived, he struck a nearby tree with his hammer, causing an impressive
 earthquake. This persuaded the men and their dogs to retreat. The rest of the
 party, while not contributing much to the encounter in the strictest sense, was
 appropriately impressed.
+
+
+Episode Two
+-----------
+*Scribe*. Soriasces.
+
+After persuading the bandits to retreat to their camp, the party continued to
+the site where Konrad had directed them. Upon arriving they found a natural
+cave stocked with provisions, and made camp. The party hunted and foraged to
+spare their rations. They found enough food to sustain them for dinner that
+evening and a hearty breakfast the next morning. Alton also discovered some
+poisonous berries that Pius prevented him from eating.
+
+They prudently set a schedule of watches, but the night passed
+uneventfully. The next morning - the halflings having ensured they left the
+campsite in better shape than they'd found it - the party set off towards the
+supposed location of the tower. On the way, Alton became suspicious of a nearby
+bush and stabbed it ineffectually.
+
+Although the rest of the party did not take Alton's threat assessment
+seriously, his concern about the vegetation was eventually vindicated. Three
+bramble bushes approached him threateningly from behind as they proceeded on
+the path to the tower.
+
+Alton quickly killed one of the bush creatures; the other two tried to flank
+him. Soriasces then cast a spell of sufficient potency that Alton suddenly fell
+asleep mid-combat. Fortunately, Elodin woke him up almost immediately by
+slapping him with Mage Hand.
+
+Pius was able to find one of the flanking bramble creatures, who seemed also to
+have been put to sleep to the side of the path. When Soriaces' spell wore off,
+the creature woke up, and Pius destroyed it with Sacred Flame. Although Elodin
+was unable to find the second bramble creature in the brush, Alton saw it
+retreating in the distance and shot it with his crossbow, killing it as well.
+
+Elodin insisted they gather the bodies of the creatures and burn them before
+moving on. The party made sure not to cause any forest fires in the process.
