@@ -32,6 +32,9 @@
        |br| Merket (bandit, member of Black Charles' gang)
        |br| Jek (bandit, member of Black Charles' gang)
        |br| Grimm, Greff (mastiffs)
+       |br|
+       |br| *At the campsight and further on the trail*
+       |br| Shrub creatures (twig blights)
  
 
 Episode One
