@@ -55,14 +55,14 @@ cooper, and a brewer. The village is technically governed by the legate at
 Eagle Pass, but in practical terms, most matters are handled by a council of
 the senior professionals in the village.
 
-**0421**. *Black Charles and his gang* -- A gang of brigands, lead by the
-thuggish Black Charles, have a camp in the hills here. They frequently descend
-upon traffic on the road to their north and west, and anyone travelling on the
-road who cares to listen can be warned of their presence by the folk in
-Pine-top. The brigands often patrol the woods around their camp in small
-groups, hunting for food, along with several :dnd-creature:`mastiffs
-<Mastiff>`; when holding up traffic on the roads, they typically appear in
-larger numbers.
+**0421**. *Black Charles and his gang* -- A gang of :dnd-npc:`brigands
+<Bandit>`, lead by the thuggish :dnd-npc:`Black Charles <Bandit-Captain>`, have
+a camp in the hills here. They frequently descend upon traffic on the road to
+their north and west, and anyone travelling on the road who cares to listen can
+be warned of their presence by the folk in Pine-top. The :dnd-npc:`brigands
+<Bandit>` often patrol the woods around their camp in small groups, hunting for
+food, along with several :dnd-creature:`mastiffs <Mastiff>`; when holding up
+traffic on the roads, they typically appear in larger numbers.
 
 **0521**. *Ruined Eld temple* -- An ancient Eldritch temple has recently had its
 upper dome unearthed, thanks to a rock and mud slide down a hill after a
