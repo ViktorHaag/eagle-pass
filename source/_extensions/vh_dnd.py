@@ -67,6 +67,8 @@ def setup_link_roles(app):
                  make_mm_role('https://www.dndbeyond.com/monsters/', None, mmtype='creature'))
     app.add_role('dnd-monster',
                  make_mm_role('https://www.dndbeyond.com/compendium/rules/mm/monsters', None, mmtype='monster'))
+    app.add_role('dnd-npc',
+                 make_mm_role('https://www.dndbeyond.com/monsters/', None, mmtype='creature'))
     app.add_role('dnd-spell', make_phb_role('https://www.dndbeyond.com/compendium/rules/phb/spells', None))
     app.add_role('dnd-item', make_item_role('https://www.dndbeyond.com/magic-items/', None))
 
