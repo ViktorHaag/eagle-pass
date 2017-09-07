@@ -60,8 +60,9 @@ thuggish Black Charles, have a camp in the hills here. They frequently descend
 upon traffic on the road to their north and west, and anyone travelling on the
 road who cares to listen can be warned of their presence by the folk in
 Pine-top. The brigands often patrol the woods around their camp in small
-groups, hunting for food, along with several mastiffs; when holding up traffic
-on the roads, they typically appear in larger numbers.
+groups, hunting for food, along with several :dnd-creature:`mastiffs
+<Mastiff>`; when holding up traffic on the roads, they typically appear in
+larger numbers.
 
 **0521**. *Ruined Eld temple* -- An ancient Eldritch temple has recently had its
 upper dome unearthed, thanks to a rock and mud slide down a hill after a
@@ -69,10 +70,11 @@ storm. The unsealing of the temple has resulted in several threats slowly
 spreading out over the nearby countryside:
 
 * Spores from the temple, sealed up for centuries, have taken root, and it's
-  not uncommon to find various spawn of Gulthias in the surrounding woods:
-  twiglings and needlers, in particular.
+  not uncommon to find various :dnd-monster:`spawn of Gulthias <Blights>` in
+  the surrounding woods: twiglings and needlers, in particular.
 
-* A wight, resident of the upper reaches of the temple dome, has killed and
-  infected several creatures, turning them into zombies. Now, they reside in
-  the temple dome as well, and wander the woods, hungry for flesh.
+* A :dnd-monster:`wight <Wight>` resident of the upper reaches of the temple
+  dome, has killed and infected several creatures, turning them into
+  :dnd-monster:`zombies <Zombie>`.  Now, they reside in the temple dome as
+  well, and wander the woods, hungry for flesh.
 
