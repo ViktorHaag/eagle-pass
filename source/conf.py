@@ -193,3 +193,5 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
+# -- Options for extlinks ------------------------------------------------
+extlinks = {'rpg-geek': ('https://rpggeek.com/rpgitem/%s/', None)}
