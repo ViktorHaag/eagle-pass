@@ -3,9 +3,9 @@
 =======================================
 
   *Heard about town, in the marketplace: Everyone knows that brigands along the
-   prison road are getting worse, and they seem more organized. They have
-   recently even attacked farmsteads! I do not want to say what they have done
-   to the bodies of those they’ve left behind…*
+  prison road are getting worse, and they seem more organized. They have
+  recently even attacked farmsteads! I do not want to say what they have done
+  to the bodies of those they’ve left behind...*
 
 |br|
 
