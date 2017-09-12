@@ -19,7 +19,7 @@
      - :doc:`Alton Highbottom <alton>` (Halfling Fighter 1)
      -
    * - Dylan Pritchard
-     - :doc:`Falco Smoothweed <falco>` (Halfling Rogue 1)
+     - :doc:`Falca Smoothweed <falca>` (Halfling Rogue 1)
      -
    * - Jeff Lyons
      - :doc:`Artan Everwood <artan>` (Human Wizard 1)
