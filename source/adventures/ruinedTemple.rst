@@ -35,10 +35,14 @@
        |br|
        |br| *At the campsight and further on the trail*
        |br| Shrub creatures (twig blights)
+       |br|
+       |br| *Near the ruined temple*
+       |br| Undead deer (zombies)
+       |br| Bandit and mastiff corpses
  
 
-Episode One
------------
+Episode One: The Startled Lumberjack
+------------------------------------
 *Scribe*. Socriasces.
 
 Pinetop is a village roughly four leagues East of Eagle Pass in an idyllic part
@@ -94,8 +98,8 @@ party, while not contributing much to the encounter in the strictest sense, was
 appropriately impressed.
 
 
-Episode Two
------------
+Episode Two: Burning Bushes
+---------------------------
 *Scribe*. Soriasces.
 
 After persuading the bandits to retreat to their camp, the party continued to
@@ -129,3 +133,51 @@ retreating in the distance and shot it with his crossbow, killing it as well.
 
 Elodin insisted they gather the bodies of the creatures and burn them before
 moving on. The party made sure not to cause any forest fires in the process.
+
+
+Episode Three: Oh Deer
+----------------------
+*Scribe*. Soriasces
+
+The party continued walking until dusk, when they noticed sounds of a commotion
+off the path. Pius immediately jumped from the road, caught his foot on a
+protruding root, fell down a 200-foot gully, and landed heavily in a small
+clearning. Alton descended acrobatically, and without sustaining any
+injuries. The wizards followed with more caution.
+
+Before Pius was able to regain his footing, a doe and fawn approached from the
+edge of the clearing, exhibiting uncharacteristic bravery. Watching more
+closely, the party became increasingly concerned about the health of the deer,
+who were proceding with a clear lack of grace, seemed to be bloody, and perhaps
+even aggressive.
+
+Fearing that the deer might mean them harm, Soriasces struck the doe in the
+snout with his quarterstaff, generating a disturbing amount of gore to come
+loose from the deer, but not discouraging it. The doe - whose body actually
+appared not only to be injured, but rotting - retaliated on the wizard,
+striking Soriasces hard with her head.
+
+Alton and Elodin, recognizing the threat caused by the deer, each attacked one
+of the animals. Pius, meanwhile, pursued the commotion they heard earlier, and
+left the clearing. However, unable to hear the sounds of struggle from before,
+he returned. Neither deer had stopped attacking, despite the damage incurred
+from Alton's rapier and Elodin's magic. Pius dispatched the doe with a radiant
+attack.
+
+While the others were attending to the doe, Elodin engaged the fawn in combat
+alone. Despite repeated hits with fire bolts, the fawn chased the elf back up
+the gully. Falling backwards to the ground, Elodin cast a magical shield on
+himself in terror. Fortunately, he was rescued when the rest of the party,
+having finished off the doe, dismembered the fawn to prevent its approach. Pius
+then killed it with radiant damage.
+
+After the encounter, they were able to determine where the earlier commotion
+had come from: a party of men and dogs had seemingly been assulted and
+partially consumed by wild animals; potentially the work of the deer. Elodin
+insisted they burn the bodies of the deer, the men, and the dogs, fearing
+contamination from, or even reanimation of, the bodies.
+
+After the fire, the party made camp back up on the path. They hoped that
+putting some distance between themselves and the clearing might make subsequent
+attacks by rotting animals less likely, and that the watches they posted that
+night would be uneventful.
