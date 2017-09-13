@@ -15,7 +15,7 @@
 
    * - Region
      - Dramatis Personae
-   * - :doc:`Pine-top </regions/pinetop>`
+   * - :doc:`Oak-bluff </regions/oakbluff>`
      - *Player characters*
        |br| :doc:`Artan </characters/artan>`
        |br| :doc:`Bran </characters/bran>`
