@@ -23,12 +23,15 @@
        |br| :doc:`Thikk </characters/thikk>`
        |br|
        |br| *In Oak-bluff village*
-       |br| ?? (innkeeper)
-       |br| ?? (elder, ex-military)
-       |br| ?? (elder, merchant)
+       |br| Hydroc Rowse (innkeeper)
+       |br| Eseld Tonkin (elder, ex-military)
+       |br| Cleder Isbell (elder, merchant)
        |br|
        |br| *Nearby farm*
-       |br| ?? (farmer)
+       |br| Peran Pearce (farmer)
+       |br| Melloney Pearce (farmer's wife)
+       |br| Tryfena Pearce (farmer's daugther, initiate)
+       |br| Ebrel Tinney (cunning woman)
  
 
 Episode One
