@@ -14,7 +14,7 @@
      - (0122, 0221); 0321, 0421, 0521
    * - :doc:`The Bandit Investigators of Oak-bluff <oakbluffbandits>`
      - :doc:`Oak-bluff </regions/oakbluff>`
-     - (0122, 0221, 0321, 0320); 0419, 0418, 0517
+     - (0122, 0221, 0321, 0320); 0318, 0419, 0517
 
 .. toctree::
    :maxdepth: 2
