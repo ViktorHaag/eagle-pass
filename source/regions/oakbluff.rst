@@ -81,4 +81,9 @@ crafters. The village is technically governed by the legate at Eagle Pass, but
 in prartical terms, the Empire has almost no active presence here, and the
 village is run in the traditional native manner, by a counsel of elders.
 
+**0517**. *Pearce's Corners* -- A cluster of farms, the principle one owned by
+the Pearce family (Peran and his wife Melloney). Peran keeps sheep and has a
+small orchard; he regularly shops wool and fruit in Oak-bluff. He and his
+farmer neighbours have been victimized by the Ghost Beggars bandit gang.
+
 
