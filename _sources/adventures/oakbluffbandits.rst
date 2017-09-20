@@ -31,7 +31,12 @@
        |br| Peran Pearce (farmer)
        |br| Melloney Pearce (farmer's wife)
        |br| Tryfena Pearce (farmer's daugther, initiate)
+       |br| Digory Pearce (farmer's son, a bit obtuse)
        |br| Ebrel Tinney (cunning woman)
+       |br|
+       |br| *Brigand bivuac*
+       |br| Petrok, the captured member of the Ghost Beggars gang
+       |br| Two pin-cushioned members of the Ghost Beggards gang
  
 
 Episode One
