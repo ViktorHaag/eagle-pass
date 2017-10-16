@@ -39,6 +39,10 @@
        |br| *Near the ruined temple*
        |br| Undead deer (zombies)
        |br| Bandit and mastiff corpses
+       |br|
+       |br| *In the ruined temple*
+       |br| Shrub creature birthing pods
+       |br| Undead bandits (zombies)
  
 
 Episode One: The Startled Lumberjack
@@ -234,3 +238,84 @@ hill, they could stand within eight feet of the edge of the "bulb," although a
 failed attempt to jump across the gap could result in falling down the hill. As
 Pius had previously discovered, falling down a hill of this height could be
 quite damaging.
+
+
+Episode Five: Two Nurseries
+---------------------------
+*Scribe*. Soraisces
+
+Eight feet from the bulbous top of the Eldrich tower, the party discussed
+options for getting across without harming themselves. They settled on sending
+Soriasces' weasel familiar Ginger across to scout the roof for
+entrances. Elodin lifted Ginger with Mage Hand and set her down on the roof.
+
+Through Ginger's eyes, Soriasces reported that there was an opening in the tip
+of the bulb that was large enough for a person to descend into. The party
+decided to cross over to the roof. Elodin and Soriasces coordinated
+simultaneous uses of Mage Hand to tie a rope off on the roof. Elodin then
+crossed the chasm with a second rope, creating a bridge the others were able to
+use to cross the chasm.
+
+One of the bridge ropes was retrieved to lower into the darkness of the tower
+attic. None of the party could see what was inside. Soriasces dropped a torch
+down the hole, and it fell for a time before disappearing into the darkness and
+eventually coming to rest far below.
+
+Alton descended first, with another torch. Below him, he was able to see a
+spiral staircase that descended down through the centre of the tower, with the
+top floor of the tower around the edge. The architecture here was very similar
+to the room they entered through a crack in the outside wall: organic,
+unsettling, and a little bit sticky.
+
+The walls of the top floor also had Eld words written on them. The rest of the
+party joined Alton and tried to decipher the script. It seemed to be providing
+care and feeding instructions of various types of plants.
+
+Attempting to orient himself towards the room they had been in before, Pius
+touched the wall he surmised would be opposite the door they were unable to
+open. At his touch, an orifice opened in the stone, revealing the empty room,
+with a crack up the far wall to the outside.
+
+Excited by the prospect of discovering more rooms, Soriasces touched the wall
+opposite Pius. It, too, opened in the same way. This room, however, was
+occupied. Roughly fifty hard, bulbous sacks the size of a human hung from the
+walls.
+
+The rest of the party joined Soriasces in the room to inspect the sacks. They
+were warm to the touch, and clearly had something warm and alive inside.
+
+While Soriasces tried and failed to open any more doors in the atrium, Elodin
+decided to cut open one of the sacks. He had to saw through the hard, wood-like
+casing with his knife. Amniotic fluid gushed out, followed by the sack’s
+inhabitant: A green, branchy creature similar to the bushes that had assaulted
+them the day before.
+
+Determining that the plant creature was aggressive, Alton dispatched it with
+his rapier. Elodin, alarmed at his discovery, started to cast a spell with the
+intention of burning all of the sacks and the creatures inside them. Before he
+could accomplish this, however, Soriasces returned to the room and tackled him,
+breaking his concentration, temporarily saving the sacks and their contents.
+
+The party left the room and reflected briefly on the benefits of and potential
+problems with eradicating the room with fire. Elodin, reconsidering his idea,
+reasoned that it was probable that the creatures may not be very vulnerable to
+fire, since they seemed to be made of green shoots that do not burn very well.
+
+The party attempted to close the door to the seed room by touching it, and the
+door closed. They also closed the door to the room with the crack. Looking at
+the Eld script again, they discovered that the doors they had opened described
+their contents as, roughly, “The Small Ones.” There were six other distinct
+areas around the walls, with two other types of directions. The party concluded
+then, that there were two other kinds of creatures within the walls, and also
+that the room they had initially entered had once been occupied with egg-sacks,
+and was not anymore. They hypothesized that the creatures may have hatched and
+escaped through the crack in the wall.
+
+Confident that they now knew where the bush creatures they’d encountered had
+come from, and having a rough idea of how many others might be out in the
+forest, the party decided to learn more about the tower’s inhabitants. They
+descended the staircase in single-file.
+
+They had not descended for very long when Pius announced that two beings were
+coming up the stairs towards them, and he was fairly certain their company was
+already dead.
