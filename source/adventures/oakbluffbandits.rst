@@ -38,7 +38,7 @@
        |br| Petrok, the captured member of the Ghost Beggars gang
        |br| Two pin-cushioned members of the Ghost Beggards gang
        |br|
-       |br| *Brigan caves*
+       |br| *Brigand caves*
        |br| Zerell, the leader of the Ghost Beggars gang
  
 
@@ -164,3 +164,41 @@ interrogation, the bandit provided the following pieces of information:
   party in search of the last one
   
 * we would make good bandits
+
+
+Episode Three
+-------------
+*Scribe*. Falca
+
+Bran's insight into the bandit captive's (Petrok) motivations lead the party to
+find out that the bandit hideout is on the south side of the imperial road,
+nearby the prison.
+
+Further interrogation of the bandit captive revealed that there are two entries
+to the bandit cave, one of them a guard post that is heavily obscured.
+
+Much debate was had about what to do next.  The vetting process for entering
+the bandit lifestyle was deemed to be too risky to investigate ("here, stab
+this baby")
+
+Bran wanted to burn down the camp.  Falca wanted to establish ambush points.
+Thikk wanted to kill Petrok.
+
+The party spent the rest of the day prepping the bivouac site for ambush,
+tieing up Petrok and throwing him into one of the sheds.
+
+The party set themselves up up-the-hill from the camp in case the bandits
+decided to investigate the missing Petrok and party.
+
+The first half of the night passed uneventfully, but on Thikk's watch rustling
+in the bushes drew his attention.  After waking Falca, Thikk chucked a large
+rock towards the noise to see if it could be startled away.  Falca, nervous
+that it was a large beast, woke up the others, as Thikk chucked a second rock
+which was effective at scaring away a substantially large animal.  The rest of
+the night passed uneventfully.
+
+The next morning Petrock was found to have escaped by a bolt-hole in the sheds.
+
+And thus the party learned the important lesson of checking the contents of a
+prison cell before throwing a prisoner in there.  It turns out the shovels and
+other implements were useful, Shawshank-style.
