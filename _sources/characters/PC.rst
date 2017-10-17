@@ -28,11 +28,11 @@
      - :doc:`Bran Brightwood <bran>` (Human Cleric 1)
      - 
    * - Noel Stonehouse
-     - :doc:`Soriasces <soriasces>` (Halfling Wizard 1)
      -
+     - :doc:`Soriasces <soriasces>` (Halfling Wizard 1)
    * - Rebecca Langer
+     -
      - :doc:`Pius Toro <pius>` (Human Cleric 1)
-     - 
 
 .. toctree::
    :maxdepth: 2
