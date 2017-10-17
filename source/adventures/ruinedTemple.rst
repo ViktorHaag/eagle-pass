@@ -18,8 +18,8 @@
      - *Player characters*
        |br| :doc:`Alton Highbottom </characters/alton>`
        |br| :doc:`Elodin Greycastle </characters/elodin>`
-       |br| :doc:`Pius Toro </characters/pius>`
-       |br| :doc:`Soriasces </characters/soriasces>`
+       |br| :doc:`Pius Toro </characters/pius>` (deceased)
+       |br| :doc:`Soriasces </characters/soriasces>` (deceased)
        |br| Ginger (Soraisces' weasel familiar)
        |br|
        |br| *In Pine-top village*
@@ -42,7 +42,7 @@
        |br|
        |br| *In the ruined temple*
        |br| Shrub creature birthing pods
-       |br| Undead bandits (zombies)
+       |br| Undead bandits (zombies) and an undead pet dog
  
 
 Episode One: The Startled Lumberjack
@@ -319,3 +319,11 @@ descended the staircase in single-file.
 They had not descended for very long when Pius announced that two beings were
 coming up the stairs towards them, and he was fairly certain their company was
 already dead.
+
+
+Episode Six: TBD
+----------------
+*Scribe*. TBD
+
+During this session, the party met with danger and almost entirely fell. Pius
+and Soriasces are dead. Elodin is gravely injured.
