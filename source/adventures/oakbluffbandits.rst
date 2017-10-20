@@ -202,3 +202,64 @@ The next morning Petrock was found to have escaped by a bolt-hole in the sheds.
 And thus the party learned the important lesson of checking the contents of a
 prison cell before throwing a prisoner in there.  It turns out the shovels and
 other implements were useful, Shawshank-style.
+
+
+Episode Four
+------------
+*Scribe*. Falca
+
+The party quickly realized they had 3 options:
+
+1. Abandon all plans, leave the local village to face whatever wrath that has
+   been stirred up
+
+2. Leave and let the bandits reclaim their camp, with whatever force they
+   decided to muster, and then re-attack after excess bandits left
+
+3. Try and locate the bandit hideout with the expectation that the majority of
+   their people would have been alerted by Petrock and left
+
+Obviously the group decided to pick option 4: hide out somewhere between the
+bandit HQ and the camp, see how many actually showed up to investigate, take
+them down if there are few enough, let them pass if there were too many and
+head to their base.
+
+Falca and Thikk scouted out a superior ambush location and the party settled
+down to wait.
+
+Soon a troop of bandits were heard coming up the path, and the party let them
+pass before:
+
+Falca lets loose an arrow that takes a lead bandit in the back of the head,
+dropping him.  Bran fires a crossbow into the back of one of the trailing
+bandits, while Artan lobbed a ball of acid at the rear of the bandit party,
+scorching two.  Thikk's throwing axe burried itself into another bandit and he
+leapt out of the cover to charge at the remaining bandits.
+
+Arrows flew, axes fell, acid splashed, bandits begged.  In short order all 6
+bandits were dispatched.  Their bodies were pulled into the forest and the
+trail somewhat cleaned up.  Bran performed final rights and absolutions, in
+preparation for the path to the afterlife.
+
+The party decided to hunker down in their ambush location for the night, had a
+dinner of dried rations, and set guard.
+
+Thikk's watch was disturbed by loud rustling in the bushes.  Bran began snoring
+and Thikk quickly muffled them by jamming his fist into Bran's mouth.
+
+Bran woke up and was hushed with a whisper of "bear".  Darkvision showed that
+the bear-like shape on the ridge had a large beak and was perhaps staring right
+at them.
+
+The Owlbear then scampered down the ridge into the forest and wandered into the
+woods.  In short order the crunching of bones was heard.
+
+At first light Bran was anxious to go check on the state of the bandit's
+worldly shells, Thikk and Artan began following him down the hill and Falca
+remained in the ambush point to watch the trail.
+
+Thikk was then hit in the back with a VERY well shot arrow, and a gruff,
+authoritative voice yelled out "DROP YOUR WEAPONS!"
+
+And thus the party learned the important lesson of not rolling 3's and 9's on
+their perception check for the final watch of the day.
