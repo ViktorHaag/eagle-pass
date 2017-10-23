@@ -321,9 +321,52 @@ coming up the stairs towards them, and he was fairly certain their company was
 already dead.
 
 
-Episode Six: TBD
-----------------
+Episode Six: The Undead and the Dead
+------------------------------------
 *Scribe*. TBD
 
-During this session, the party met with danger and almost entirely fell. Pius
-and Soriasces are dead. Elodin is gravely injured.
+Two undead humanoids ascended the stairs towards the party. Pius and Elodin
+tried to fend them off from the top of the stairs with radiant and fire magic
+respectively. Alton and Soriasces rounded the landing to be able to aim
+downwards at the tops of the attackers' heads.
+
+Soriasces, failing to strike effectively with his quarterstaff, jumped down
+from the ledge to the stairway. The undead humanoid in the rear turned to
+attack him. Although Soriasces failed to push his assailant off the stairs,
+Alton was able to cleave the zombie in half. Even so, the half-zombie continued
+advancing on Soriasces, inflicting damage.
+
+Fortunately, Pius and Elodin destroyed both zombies before Soriasces was too
+badly injured, and Pius healed him back up to full health. Emboldened by a
+successful encounter, the party descended the stairs to the floor below.
+
+The lower floor was smaller than the top floor, roughly round, and empty aside
+from the descending staircase. A hallway extended off from a far wall. Once
+Alton, Soriasces and Pius reached the landing, they noticed three figures
+approaching from that hallway: two humanoids and a dog. They quickly identified
+them as three more zombies.
+
+Alton armed himself with a bow to fire at the zombies from a distance. He and
+Pius retreated back up the stairs with Elodin, while Soriasces edged along the
+wall in an attempt to draw one attacker off from the pack. Soriasces attacked
+one monster with Chill Touch, getting its attention. They engaged in combat,
+but the rest of the party lost sight of them from the stairs. The dog and the
+second zombie chased the other three up the stairs.
+
+Elodin focused his fire magic on the dog while Alton and Pius attacked the
+humanoid. Unfortunately, Pius' radiant attacks missed frequently. The zombie
+knocked Pius unconscious before Alton was able to kill it. Once he killed the
+dog, Elodin tried to stabilize Pius but was unable to save him, and the cleric
+died.
+
+The second zombie then approached from where it had been attacking
+Soriasces. Realizing that Soriasces had likely lost the fight, Alton hurried
+into the room. He found Soriasces dead on the floor. Elodin fended off the
+second zombie as well as he could before also being knocked out. Alton returned
+to the staircase, killed the remaining zombie, and stabilized Elodin.
+
+Shaken and eager to return home, Alton dragged his three party members into the
+empty room with the crack, and waited for Elodin to regain consciousness. When
+Elodin awoke, Alton explained what had occurred. They agreed to loot and burn
+Soriasces and Pius' bodies in the event that the undeath affliction was
+contagious. They returned to Eagle Pass.
