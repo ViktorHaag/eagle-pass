@@ -323,7 +323,7 @@ already dead.
 
 Episode Six: The Undead and the Dead
 ------------------------------------
-*Scribe*. TBD
+*Scribe*. Soriasces
 
 Two undead humanoids ascended the stairs towards the party. Pius and Elodin
 tried to fend them off from the top of the stairs with radiant and fire magic

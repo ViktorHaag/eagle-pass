@@ -20,6 +20,7 @@
      -
    * - Dylan Pritchard
      - :doc:`Falca Smoothweed <falca>` (Halfling Rogue 1)
+       |br| :doc:`Mad Jack <jack>` (Elven Cleric 1)
      -
    * - Jeff Lyons
      - :doc:`Artan Everwood <artan>` (Human Wizard 1)
@@ -28,10 +29,10 @@
      - :doc:`Bran Brightwood <bran>` (Human Cleric 1)
      - 
    * - Noel Stonehouse
-     -
+     - :doc:`Corwynn Mudfoot <corwynn>` (Halfling Fighter 1)
      - :doc:`Soriasces <soriasces>` (Halfling Wizard 1)
    * - Rebecca Langer
-     -
+     - :doc:`Foxglove <foxglove>` (Elven Rogue 1)
      - :doc:`Pius Toro <pius>` (Human Cleric 1)
 
 .. toctree::
