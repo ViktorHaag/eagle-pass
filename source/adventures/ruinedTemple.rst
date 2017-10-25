@@ -21,7 +21,7 @@
        |br| :doc:`Pius Toro </characters/pius>` (deceased)
        |br| :doc:`Soriasces </characters/soriasces>` (deceased)
        |br| Ginger (Soraisces' weasel familiar) (missing)
-       |br| :doc:`Corwynn Mudfoot </charaters/corwynn>`
+       |br| :doc:`Corwynn Mudfoot </characters/corwynn>`
        |br| :doc:`Foxglove </characters/foxglove>`
        |br| :doc:`Mad Jack </characters/jack>`
        |br|
