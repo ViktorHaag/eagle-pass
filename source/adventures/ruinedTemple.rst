@@ -20,7 +20,10 @@
        |br| :doc:`Elodin Greycastle </characters/elodin>`
        |br| :doc:`Pius Toro </characters/pius>` (deceased)
        |br| :doc:`Soriasces </characters/soriasces>` (deceased)
-       |br| Ginger (Soraisces' weasel familiar)
+       |br| Ginger (Soraisces' weasel familiar) (missing)
+       |br| :doc:`Corwynn Mudfoot </charaters/corwynn>`
+       |br| :doc:`Foxglove </characters/foxglove>`
+       |br| :doc:`Mad Jack </characters/jack>`
        |br|
        |br| *In Pine-top village*
        |br| Bruno Schmidt (blacksmith)
