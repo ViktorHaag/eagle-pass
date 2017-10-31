@@ -36,7 +36,12 @@
        |br|
        |br| *Brigand bivuac*
        |br| Petrok, the captured member of the Ghost Beggars gang
-       |br| Two pin-cushioned members of the Ghost Beggards gang
+       |br| Two pin-cushioned members of the Ghost Beggars gang
+       |br|
+       |br| *Ambush point in the pass*
+       |br| A band of dead Ghost Beggars gang, dispatched by our heroes
+       |br| A suspected owl bear, nosing about in the woods
+       |br| Wethell and Mux, two "hunters" who catch our heroes unawares
        |br|
        |br| *Brigand caves*
        |br| Zerell, the leader of the Ghost Beggars gang
