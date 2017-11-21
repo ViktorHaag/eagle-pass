@@ -373,3 +373,51 @@ empty room with the crack, and waited for Elodin to regain consciousness. When
 Elodin awoke, Alton explained what had occurred. They agreed to loot and burn
 Soriasces and Pius' bodies in the event that the undeath affliction was
 contagious. They returned to Eagle Pass.
+
+
+Episode Seven: Return to the Tower
+----------------------------------
+*Scribe*. Corwynn
+
+After a disturbing night of cowering in the birthing chamber as something
+scratched against the door, Elosin and Alton escaped the temple through the
+crack in the outside wall. They spent the next day traveling back to the
+woodcutter's camp.
+
+They reached the camp the following morning, and happened upon three strangers
+who had been using the camp the previous night. Two of the strangers - Corwynn
+and Mad Jack - were arguing about the importance of eating a good breakfast
+before leaving.
+
+Alton introduced himself to the group, and everyone eventually made each
+others' acquaintance. Foxglove, Mad Jack, and Corwynn had been searching for a
+party of four adventurers seeking a mysterious tower. Alton and Elodin revealed
+that they had been part of that party, but two of their number had died in the
+tower.
+
+Corwynn determined that the halfling wizard that had died in the tower was
+likely her long-lost uncle Felix. She confronted Alton about allowing Soriasces
+to die and leaving his body behind. Alton and Elodin confirmed that there were
+mysterous and Eldrich things occuring at the tower, to Foxglove and Mad Jack's
+increased interest.
+
+The five adventurers decided to form a new party and return to the tower. They
+made their way back to the top floor, then descended the staircase
+unimpeded. At the bottom of the stairs they found six dead bodies, arranged
+seated back-to-back in a circle, and the body of a dog. Elodin, now fully
+recovered, set about burning them. While not a fast or easy process, he
+nevertheless made some progress with his fire magic.
+
+Corwynn inspected the body of the halfling and confirmed that Soriasces was
+indeed her uncle. The realization hit her hard, and she retreated to the corner
+with his body to grieve.
+
+Foxglove scouted down the hallway, and noticed that someone was approaching
+them quickly from the other end. Warning those near her to be on alert, she hid
+in the shadows and waited. Elodin cast mage armor on himself.
+
+A very tall, long-limbed figure strode into the room and attacked Alton with
+two weapons. Mad Jack fired an arrow at the attacker, and Foxglove backstabbed
+it from behind. Corwynn, realizing they were under attack, threw a hand axe and
+struck the assailant. Alton counterattacked successfully. Nevertheless, the
+attacker continued to fight.
