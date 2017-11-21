@@ -268,3 +268,37 @@ authoritative voice yelled out "DROP YOUR WEAPONS!"
 
 And thus the party learned the important lesson of not rolling 3's and 9's on
 their perception check for the final watch of the day.
+
+
+Episode Five
+------------
+*Scribe*. Falca
+
+(An authoritative voice yelled out "DROP YOUR WEAPONS!"...)
+
+"WAIT" yelled Falca "we're not bandits, we're hunters tracking a horrible
+beast!"
+
+After deliberation, fakery, managing to remember the name of the entire Pierce
+family (including the ox), the team managed to convince the pair on the bluff
+that they were NOT bandits, that they were HUNTING bandits (the strewn about
+corpses in the trees, ie: the remains of the owlbear, helped).
+
+The pair told our heros that they were also hunters, but weren't interested in
+helping take down the bandits.  The party did manage to get some more details
+on how to spot the bandit headquarters, and the guarded and hidden sentry post.
+
+Afterwards the party decided to hunker down and wait for the next batch of
+bandits that were likely to follow up after the previous bunch failed to report
+in after market-day.
+
+They were rewarded a few days later as a large party of well-provisioned
+bandits (8 thugs, 2 scouts) came into sight.  Falca, up on the ledge, let out a
+birdcall to indicate that there was a scout on the bluff.
+
+The birdcall was less than optimal, and the scout froze.  After calling up the
+second scout, the bandits decided to scale the bluff and continue travel from
+there.
+
+It was at this point that the mighty Thikk decides to...
+
