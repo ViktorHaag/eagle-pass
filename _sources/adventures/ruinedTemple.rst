@@ -46,6 +46,7 @@
        |br| *In the ruined temple*
        |br| Shrub creature birthing pods
        |br| Undead bandits (zombies) and an undead pet dog
+       |br| Kia'i Puka the lonely guardian of the inner sanctum (wight)
  
 
 Episode One: The Startled Lumberjack
