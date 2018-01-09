@@ -302,3 +302,31 @@ there.
 
 It was at this point that the mighty Thikk decides to...
 
+
+Episode Six
+-----------
+*Scribe*. Falca
+
+...
+
+A scream from the forest: "AHHHH, the Owl Bear is back!  Run, Withal, Run!"
+
+The bandits freeze.  The upper scout moves carefully forward, only to be
+skewered by a crossbow bolt from an unknown location.  He screams and ducks
+behind a rock, other bandits move forward, one takes an arrow to the eye and
+falls to the ground.  Falca takes a dagger to the shoulder from the scout,
+"free dagger!"
+
+Thikk throws a hand-axe at the lower scout, missing, then jumps stealthfully
+out of the ambush point to begin flanking those on the ground.  Another
+crossbow bolt flies from the bivouac, missing.  A sleep spell drops one of the
+bandits, who is slapped awake by another.
+
+A magic missile flies out of the ambush point, taking a bandit in the face,
+dropping him.  A crossbow bolt hits Artan in the arm, but not before casting
+poison spray at an enraged bandit.  Bran takes a swing with his mace on the
+poisoned bandit but misses, and the bandit jumps into the nest and stabs Bran.
+
+Falca swiftly travels down the hill and into the lower forest.  Thikk sneaks up
+on the lower scout and decapitates him and engages with two more bandits,
+laughing at their ineffectual assaults.
