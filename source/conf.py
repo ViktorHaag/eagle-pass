@@ -92,6 +92,15 @@ rst_epilog = """
 .. include:: <isonum.txt>
 """
 
+# If true, use the docutils Smart Quotes transform
+# (see http://www.sphinx-doc.org/en/stable/config.html#confval-smartquotes)
+smartquotes = True
+# smart quote pattern
+smartquotes_action = 'qDe'
+# if any of these are the case during a build, exclude smart quotes
+smartquotes_excludes = { 'languages': ['ja'],
+                         'builders': ['man', 'text'] }
+
 # -- Options for HTML output ----------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
