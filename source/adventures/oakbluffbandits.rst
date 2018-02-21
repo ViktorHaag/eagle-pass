@@ -118,7 +118,7 @@ as a farming family, with Thikk and Artan hidden in the trunk, Bran posing as a
 farmer, and Falca and Digery Pierce posing as his children.
 
 Approaching the bend and proported ambush point, Bran spotted a weak line of
-smoke streaming from the hilltop.  Passing by the ambush point with no trouble,
+smoke streaming from the hilltop. Passing by the ambush point with no trouble,
 the group doubled back and daringly rolled out of the cart, leaving PIERCE to
 return home.
 
@@ -126,12 +126,12 @@ A deer trail was found, which clearly led upwards into the hill towards the
 smoke.
 
 Near the mouth of the trail, blinds and shelters were spotted, and strange
-carvings were found in the tree.  Falca was able to decipher them, using the
-oft-used D&D skill of Thieves' Cant.  These writings seemed to be inventories
+carvings were found in the tree. Falca was able to decipher them, using the
+oft-used D&D skill of Thieves' Cant. These writings seemed to be inventories
 of past robberies.
 
 The party then carefully made their way up the hill until voices were heard.
-Falca moved forward stealthfully to investigate.  A rogue branch snapped and
+Falca moved forward stealthfully to investigate. A rogue branch snapped and
 the conversation quickly ceased, but just as quickly picked up again.
 
 Moving closer to the conversation, Falca observed three bandits (their yellow
@@ -139,20 +139,20 @@ and black scarves clearly visible), and masterfully (almost too much so)
 mimicked a triple cry of a local bird and readying her bow.
 
 Deciding that this was the signal to advance, Thickk began laughing
-histerically, and charged up the hill.  In the initiall confusion, Falca
-released an arrow, catching a bandit just beneath the eye (SNEAK ATTACK!).  The
+histerically, and charged up the hill. In the initiall confusion, Falca
+released an arrow, catching a bandit just beneath the eye (SNEAK ATTACK!). The
 other two jumped over the table, flipping it over on its side and hid behind
 it, drawing weapons.
 
 Thikk advanced on their position and too a mighty swing at the nearest bandit,
-who parried the blow with his shortsword.  Artan artfully lobbed a ball of acid
-at the two bandits, who were both scalded in the ordeal.  Falca released
+who parried the blow with his shortsword. Artan artfully lobbed a ball of acid
+at the two bandits, who were both scalded in the ordeal. Falca released
 another arrow, catching the second bandit in the ear (SNEAK ATTACK!) dropping
 him as well.
 
 Bran, unleashing holy power, commanded the final bandit to DROP IT, but
 something was lost in holy to bandit translation, and the bandit dropped to the
-ground.  Moments before Thikk plunges his axe into the skull of the final
+ground. Moments before Thikk plunges his axe into the skull of the final
 bandit, Artan rushes forward yelling "REMEMBER, WE WANT ONE ALIVE!" at which
 point the bandit quickly surrenders.
 
@@ -182,11 +182,11 @@ nearby the prison.
 Further interrogation of the bandit captive revealed that there are two entries
 to the bandit cave, one of them a guard post that is heavily obscured.
 
-Much debate was had about what to do next.  The vetting process for entering
+Much debate was had about what to do next. The vetting process for entering
 the bandit lifestyle was deemed to be too risky to investigate ("here, stab
 this baby")
 
-Bran wanted to burn down the camp.  Falca wanted to establish ambush points.
+Bran wanted to burn down the camp. Falca wanted to establish ambush points.
 Thikk wanted to kill Petrok.
 
 The party spent the rest of the day prepping the bivouac site for ambush,
@@ -196,16 +196,16 @@ The party set themselves up up-the-hill from the camp in case the bandits
 decided to investigate the missing Petrok and party.
 
 The first half of the night passed uneventfully, but on Thikk's watch rustling
-in the bushes drew his attention.  After waking Falca, Thikk chucked a large
-rock towards the noise to see if it could be startled away.  Falca, nervous
+in the bushes drew his attention. After waking Falca, Thikk chucked a large
+rock towards the noise to see if it could be startled away. Falca, nervous
 that it was a large beast, woke up the others, as Thikk chucked a second rock
-which was effective at scaring away a substantially large animal.  The rest of
+which was effective at scaring away a substantially large animal. The rest of
 the night passed uneventfully.
 
 The next morning Petrock was found to have escaped by a bolt-hole in the sheds.
 
 And thus the party learned the important lesson of checking the contents of a
-prison cell before throwing a prisoner in there.  It turns out the shovels and
+prison cell before throwing a prisoner in there. It turns out the shovels and
 other implements were useful, Shawshank-style.
 
 
@@ -236,28 +236,28 @@ Soon a troop of bandits were heard coming up the path, and the party let them
 pass before:
 
 Falca lets loose an arrow that takes a lead bandit in the back of the head,
-dropping him.  Bran fires a crossbow into the back of one of the trailing
+dropping him. Bran fires a crossbow into the back of one of the trailing
 bandits, while Artan lobbed a ball of acid at the rear of the bandit party,
-scorching two.  Thikk's throwing axe burried itself into another bandit and he
+scorching two. Thikk's throwing axe burried itself into another bandit and he
 leapt out of the cover to charge at the remaining bandits.
 
-Arrows flew, axes fell, acid splashed, bandits begged.  In short order all 6
-bandits were dispatched.  Their bodies were pulled into the forest and the
-trail somewhat cleaned up.  Bran performed final rights and absolutions, in
+Arrows flew, axes fell, acid splashed, bandits begged. In short order all 6
+bandits were dispatched. Their bodies were pulled into the forest and the
+trail somewhat cleaned up. Bran performed final rights and absolutions, in
 preparation for the path to the afterlife.
 
 The party decided to hunker down in their ambush location for the night, had a
 dinner of dried rations, and set guard.
 
-Thikk's watch was disturbed by loud rustling in the bushes.  Bran began snoring
+Thikk's watch was disturbed by loud rustling in the bushes. Bran began snoring
 and Thikk quickly muffled them by jamming his fist into Bran's mouth.
 
-Bran woke up and was hushed with a whisper of "bear".  Darkvision showed that
+Bran woke up and was hushed with a whisper of "bear". Darkvision showed that
 the bear-like shape on the ridge had a large beak and was perhaps staring right
 at them.
 
 The Owlbear then scampered down the ridge into the forest and wandered into the
-woods.  In short order the crunching of bones was heard.
+woods. In short order the crunching of bones was heard.
 
 At first light Bran was anxious to go check on the state of the bandit's
 worldly shells, Thikk and Artan began following him down the hill and Falca
@@ -285,7 +285,7 @@ that they were NOT bandits, that they were HUNTING bandits (the strewn about
 corpses in the trees, ie: the remains of the owlbear, helped).
 
 The pair told our heros that they were also hunters, but weren't interested in
-helping take down the bandits.  The party did manage to get some more details
+helping take down the bandits. The party did manage to get some more details
 on how to spot the bandit headquarters, and the guarded and hidden sentry post.
 
 Afterwards the party decided to hunker down and wait for the next batch of
@@ -293,10 +293,10 @@ bandits that were likely to follow up after the previous bunch failed to report
 in after market-day.
 
 They were rewarded a few days later as a large party of well-provisioned
-bandits (8 thugs, 2 scouts) came into sight.  Falca, up on the ledge, let out a
+bandits (8 thugs, 2 scouts) came into sight. Falca, up on the ledge, let out a
 birdcall to indicate that there was a scout on the bluff.
 
-The birdcall was less than optimal, and the scout froze.  After calling up the
+The birdcall was less than optimal, and the scout froze. After calling up the
 second scout, the bandits decided to scale the bluff and continue travel from
 there.
 
@@ -311,22 +311,128 @@ Episode Six
 
 A scream from the forest: "AHHHH, the Owl Bear is back!  Run, Withal, Run!"
 
-The bandits freeze.  The upper scout moves carefully forward, only to be
-skewered by a crossbow bolt from an unknown location.  He screams and ducks
+The bandits freeze. The upper scout moves carefully forward, only to be
+skewered by a crossbow bolt from an unknown location. He screams and ducks
 behind a rock, other bandits move forward, one takes an arrow to the eye and
-falls to the ground.  Falca takes a dagger to the shoulder from the scout,
+falls to the ground. Falca takes a dagger to the shoulder from the scout,
 "free dagger!"
 
 Thikk throws a hand-axe at the lower scout, missing, then jumps stealthfully
-out of the ambush point to begin flanking those on the ground.  Another
-crossbow bolt flies from the bivouac, missing.  A sleep spell drops one of the
+out of the ambush point to begin flanking those on the ground. Another
+crossbow bolt flies from the bivouac, missing. A sleep spell drops one of the
 bandits, who is slapped awake by another.
 
 A magic missile flies out of the ambush point, taking a bandit in the face,
-dropping him.  A crossbow bolt hits Artan in the arm, but not before casting
-poison spray at an enraged bandit.  Bran takes a swing with his mace on the
+dropping him. A crossbow bolt hits Artan in the arm, but not before casting
+poison spray at an enraged bandit. Bran takes a swing with his mace on the
 poisoned bandit but misses, and the bandit jumps into the nest and stabs Bran.
 
-Falca swiftly travels down the hill and into the lower forest.  Thikk sneaks up
+Falca swiftly travels down the hill and into the lower forest. Thikk sneaks up
 on the lower scout and decapitates him and engages with two more bandits,
 laughing at their ineffectual assaults.
+
+
+Episode Seven
+-------------
+*Scribe*. Falca
+
+Thikk attempts to dispatch one of the two bandits in front of him and misses,
+critically, allowing the two bandits in front of him the chance to attack at
+advantage. One wounds him, the other fails to take advantage of the situation,
+and pays with his life as Thikk's backswing takes the bandit's head off.
+
+Falca pegs the bandit heading up towards the nest in the back and causes him to
+stumble.
+
+Artan takes an arrow to the shoulder and drops.
+
+Bran maneuvers himself into position and finally gets to cast burning hands,
+torching the bandit immediately threatening him, as well as finishing off the
+bandit Falca hit.
+
+Thikk drops the second bandit in front of him as Bran heals Artan.
+
+The party lose sight of the three bandits on the hill. Artan bolts down the
+hill to group up with Thikk and Falca.
+
+Thikk charges up the hill after stuffing some dirt into the earlier wound.
+Falca notices two of the bandits taking aim at Thikk, is unable to warn Thikk
+of their presence before an arrow takes him in the other arm. She does manage
+to exact revenge as one of her arrows plunges into the eye of the shooter.
+
+Artan follows Thikk up the hill, tossing an acid splash onto the remaining
+bandit, who just took one of Thikk's hand axes to the shoulder, eliminating
+that threat.
+
+The party hunt for the remaining bandit but find no sign of him.
+
+After their rousing success, the party is emboldened and continue on their way
+to the bandit camp.
+
+They camp for the night on a secluded bluff that would be difficult to sneak up
+on and the next day they continue their journey and search for futher landmarks
+of the bandit camp, provided to them by Withal, the hunter.
+
+Falca scouted ahead and identified a few of the landmarks signifying the
+proximity of the bandit hideout.
+
+What will they do now?
+
+
+Episode Eight
+-------------
+*Scribe*. Falca
+
+Much whispered discussion about how to proceed ...
+
+ * Return to town with our batch of 19 bloodied bandit bandanas and rally town
+   support for a full assault?  (REDSHIRTS anyone?)
+
+ * Frontal assault in daylight (Thikk)
+
+ * Bran and Artan dress as bandits, Falca and Thikk Voltron to form a bandit,
+   and attempt to approach the entrance to see what happens (Falca, duh)
+
+ * Wait until night and scout the guard post
+
+ * Scale the cliff and reconnoiter from above
+
+Ultimately it was decided to wait until night and do some scouting.
+
+As night fell, Artan cast light on a stone and gave it to Falca, just in case,
+who placed it into a sealed container.
+
+She snuck carefully, using the trail wall as a guide, up to the edge of the
+guardpost and listened. Light, steady breathing was heard.
+
+Falca slowly squeezed into the space, confronted by a large, but sleeping, man.
+
+Determining that swift and bold action was required (plus it would make a good
+story, "Stories don't pay the bills" booms a godlike voice from above, "they do
+in my case", whispers Falca), she quickly dispatches the guard with her
+shortsword, attempting to cover up the ensuing mess with one of the excess
+bandit bandanas in her possession.
+
+Falca then sneaks back to the group, indicating that the lone guard at the
+mouth of the tunnel has been "dealt with" (assassin archetype at 3rd level
+maybe?)
+
+Obtaining Artan and Bran bandit bandanas as a light disguise, the two humans
+move deeper into the cave. They come across a small sleeping quarters, 5 beds,
+two filled. This heartened the group, perhaps the bandits were now at half
+capacity.
+
+After beckoning Thikk and Falca forward, Bran, with his superior perception,
+hears the sleeping wimper of a dog coming from deeper within the the caves.
+
+"Dogs" he whispers. Artan contemplates the use of a sleep spell to disable
+this early alarm threat while Falca battles inner demons around further
+dispatching of sleeping bandits.
+
+Cue disolve; new scene; an elderly, white haired halfing woman is sitting in
+front of her great-grandchildren, regailing them with tales "and that's when
+grandma SLIT THEIR THROATS!"
+
+Emboldened by this touching scene, Falca once again draws her short sword and
+stealthfully approaches the first sleeping form...
+
