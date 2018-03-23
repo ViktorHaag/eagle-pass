@@ -436,3 +436,89 @@ grandma SLIT THEIR THROATS!"
 Emboldened by this touching scene, Falca once again draws her short sword and
 stealthfully approaches the first sleeping form...
 
+
+Episode Nine
+------------
+*Scribe*. Falca
+
+Falca leans over and quickly dispatches the first bandit.  She quickly moves
+over to the other one who is alerted at the last second.  A gurgling noise
+escapes the bandit and some shuffling and snuffling of dog noises come from the
+hallway.
+
+Artan moves into the hall, peering into the darkness.  Sleepy, stumbly dog
+noises come from the gloom.  Artan expertly casts a sleep spell in that
+direction and the sound of dog bodies flopping to the floor lightly echoes in
+the dark.
+
+Falca passes Thikk a dagger, giving him a "you know what you have to do" look.
+For a dwarf in armour, Thikk is enviably stealthy.  He dispatches the 5 sleep
+spelled mastifs and peers into the room beyond.  A pile of 3 dogs and 2 bandits
+snooze on the other end of the cavern.
+
+One bandit sleepily looks up in Thikk's direction, but doesn't have enough
+light to startle him into awakedness.  He slowly slips back to sleep after
+Thikk pretends to be just another sleeping dog at the entrance-way.
+
+Thikk returns to the group, and he and Falca (palming the lighted rock in her
+hand like a flashlight) sneak up to the pile of sleepers, dispatching the dogs
+and bandits.  Facla's alignment slips into CN as she repeatedly stabs one of
+the bodies, chanting quietly "this will make a great story, this will make a
+great story", and her previous bond of "I will do anything to prove myself
+superior to my hated rival." slips away and "I idolize a hero of the old tales
+and measure my deeds against that person’s." The hero of this story
+http://malazan.wikia.com/wiki/Crack%27d_Pot_Trail materializing in her mind as
+her new role-model.
+
+The passage to the left contains old empty barrels and crates, all on pallets,
+and seem to have been here quite a long time, as though this cave could have
+housed smugglers or some other group previous to the bandits.  A small 3x3
+passageway exists in one of the walls.  A dog run perhaps?
+
+The main entrance chamber has a passage that leads to what smells like a
+commode, another larger cavern entrance to a bounteous horde of miss-begotten
+goods.  Hundreds of gold coins worth of merchandise reside here, possibly
+providing a nice, legal front for an A-Team-esque band of murder-hobos, and
+also in the main entrance, yet another smaller crack in the wall that would be
+difficult for the larger party members to get through.
+
+Within the treasure room, a larger passageway leads into a long, long tunnel.
+
+Tally so far:
+
+24? bandits
+7 bandit dogs
+1 alignment shift
+
+This will make a great story
+
+
+Episode Ten
+-----------
+*Scribe*. Falca
+
+After further investigation, the group heads back to the abandoned storage room
+and Falca investigates the 3x3 tunnel while Artan and Bran guard the tunnel
+entrance in the abandoned store room.  It is dark, and leads to a small,
+slightly taller cavern.
+
+Falca goes back and fetches Thikk, who can see in the dark.  Two tunnels exist
+in the room, along with a pedestal that after investigation, used to hold a
+small statue.
+
+A light ticking comes from the tunnel to the north, so Thikk investigates the
+eastward tunnel.  It turns out it leads to a small guard room that has two
+entrances, one coming from the main portion of the caverns, one that leads
+downwards.  Two guards sit, playing cards, with their back to the small tunnel.
+
+Thikk comes back and fetches Falca.  They sneak up the tunnel, and Falca tosses
+a dagger into the back of one of the guards, who yells in surprise.  Thikk
+follows, dispatching the other guard.  Falca finishes off the first guard, and
+the two short companions leap into the tunnel again as they hear voices coming
+to investigate.
+
+4 or 5 bandits enter the room, and one of them shouts "something in the
+tunnels!" and a bandit peeks his head in.  Another bandit moves out of view,
+possibly looking at what could be a second small tunnel entrance in the room.
+
+Thikk and Falca ponder their next move.  Artan and Bran hear shouting.
