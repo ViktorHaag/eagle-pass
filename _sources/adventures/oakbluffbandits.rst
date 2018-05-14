@@ -522,3 +522,46 @@ tunnels!" and a bandit peeks his head in.  Another bandit moves out of view,
 possibly looking at what could be a second small tunnel entrance in the room.
 
 Thikk and Falca ponder their next move.  Artan and Bran hear shouting.
+
+
+Episode Eleven
+--------------
+*Scribe*. Falca
+
+The Bandit Investigator
+or 
+How I Learned to Stop Worrying and Love the Severed Ears
+
+Date: Mar 19th, 2018
+Party: Thikk (Alex), Falca (Dylan), Bran (Jonathan), Artan (Jeffrey)
+
+...
+
+"They are in the tunnels!" a bandit shouts and then his head disappears from
+view.
+
+Thikk and Falca fall back to regroup with Bran and Artan at the small tunnel
+entrance, but when they enter the low-ceilinged room, tentacles have emerged
+from the other, unexplored passageway.
+
+Abandoning the statuette, Thikk and Falca run back to the others, and they rush
+out of the bandit's hideout and hide at the entrance way, with the expectation
+they can ambush the bandits as they either run out to investigate or run away
+from the tentacle monster in the midst of their cavern.
+
+After a few hours of no activity, the group gets antsy and sneak back in.
+Falca is disappointed at the general lack of stabing.  They hear no activity
+from the depths of the caverns, so they decide to investigate the lavatory
+passageway, and stumble upon another series of caves.
+
+Past the washrooms, the group find two old imperial chests, filled with old,
+uninteresting imperial garments.  Past this they find a small kitchen with a
+large birdcage.  The door of the birdcage is open and the cage is gently
+swinging, as though someone recently removed the contents of the cage.  The
+spoor of the cage indicates a recent inhabitant.  Moving cautiously along the
+group finds what was clearly the main lair of the bandits.  An outline in the
+dust reveals what looks like the former location of a large chest.  Cart marks
+are clear in the dirt floor.  It looks like everyone has left in a hurry.
+
+A shambling sound comes from one of the tunnels.  It's getting closer...
+
